@@ -13,6 +13,6 @@ In this repository you will find short tutorials related to Deep Learning. I hav
 
 ## Table Of Contents
 - [Universality Theorem: a function approximator](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Function_approximator_nn.ipynb)
-- [Deep Learning in Prod: Eager model, Graph execution and JIT](Prod_jit_and_torchscript.ipynb)
+- [Deep Learning in Prod: Eager model, Graph execution and JIT](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Prod_jit_and_torchscript.ipynb)
 
  
