@@ -1,10 +1,10 @@
 
-<p align="center"><img width="100%" src="ML/others/logo/torch_and_tf.svg" /></p>
+<p align="center"><img width="100%" src="logo.png" /></p>
 
---------------------------------------------------------------------------------
+___
 
 
-[![Build Status](Collection) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [logo]: https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/others/logo/youtube_logo.png
 
