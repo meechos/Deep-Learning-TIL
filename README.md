@@ -13,6 +13,7 @@ In this repository you will find short tutorials related to Deep Learning. I hav
 
 ## Table Of Contents
 - 📓 [Array Broadcasting 101: Why your neural networks are fast](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Broadcasting_101.ipynb)
+- 📓 [Forward pass of neural networks: an interactive breakdown](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Forward_pass_of_neural_networks_an_interactive_visual_breakdown.ipynb)
 - 📓 [Universality Theorem: a function approximator](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Function_approximator_nn.ipynb)
 - 📓 [Deep Learning in Prod: Eager model, Graph execution and JIT](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Prod_jit_and_torchscript.ipynb)
 
