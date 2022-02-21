@@ -16,6 +16,6 @@ In this repository you will find short tutorials related to Deep Learning. I hav
 - 📓 [Forward pass of neural networks: an interactive breakdown](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Forward_pass_of_neural_networks_an_interactive_visual_breakdown.ipynb)
 - 📓 [Universality Theorem: a function approximator](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Function_approximator_nn.ipynb)
 - 📓 [Deep Learning in Prod: Eager model, Graph execution and JIT](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Prod_jit_and_torchscript.ipynb)
-- 📓 [Accelerated Linear Algebra Libraries: A short intro](https://github.com/meechos/Deep-Learning-Toolkit/blob/style-nb-and-readme/nbs/MKL_vs_OpenBLAS.ipynb)
+- 📓 [Accelerated Linear Algebra Libraries: A short intro](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/MKL_vs_OpenBLAS.ipynb)
 
  
