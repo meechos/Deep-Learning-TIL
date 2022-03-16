@@ -10,7 +10,7 @@ ___
 
 # Deep-Learning-Toolkit
 
-In this repository you will find short tutorials related to Deep Learning. I have put together these notebooks over the years for my own use. The electron is a theory we use; it is so useful in understanding the way nature works that we can almost call it real. Please feel free to create an issue in case anything is off. In the modern world there is more and more information, and less and less meaning. It is the mark of an educated mind to be able to entertain a thought without accepting it.
+In this repository you will find short tutorials related to Deep Learning. I have put together these notebooks over the years for my own use. The electron is a theory we use; it is so useful in understanding the way nature works that we can almost call it real. Please feel free to create an issue in case anything is off. In the modern world there is more and more information, and less and less meaning. But it is the mark of an educated mind to be able to entertain a thought without accepting it.
 
 ## Table Of Contents
 - 📓 [Array Broadcasting 101: How neural networks are fast](https://github.com/meechos/Deep-Learning-Toolkit/blob/main/nbs/Broadcasting_101.ipynb)
