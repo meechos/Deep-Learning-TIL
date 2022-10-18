@@ -8,7 +8,7 @@ ___
 
 [logo]: https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/others/logo/youtube_logo.png
 
-# Deep-Learning-Toolkit
+# Deep-Learning-TIL
 
 In this repository you will find short tutorials related to Deep Learning. I have put together these notebooks over the years for my own use. The electron is a theory we use; it is so useful in understanding the way nature works that we can almost call it real. Please feel free to create an issue in case anything is off. In the modern world there is more and more information, and less and less meaning. But it is the mark of an educated mind to be able to entertain a thought without accepting it.
 
